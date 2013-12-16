@@ -3,8 +3,10 @@ Soda
 
 A Arduino library for 7 segment LED  
 
-This library was made by Quin, the head engineer at Qtechknow.  I made this specifically for using with 7-segment displays.  Share, distribute, and edit for your specific uses.  This is an open-source library.
-Some edits done by @fabiantheblind
+This library was made by [Quin](https://github.com/Qtechknow/Arduino-Libraries), the head engineer at Qtechknow.  He made this specifically for using with 7-segment displays.  Share, distribute, and edit for your specific uses. This is an open-source library.  
+
+Some edits done by @fabiantheblind  
+I had to pull it into a new repo for better usage. Also I made some major changes to the usage of the pinlayout. See [Quin's original work here.](https://github.com/Qtechknow/Arduino-Libraries)  
 
 Functions:
 
